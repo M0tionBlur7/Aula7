@@ -6,9 +6,11 @@ import javax.swing.JOptionPane;
 public class Principal {
     public static void main(String[] args) {
         Calculo cal = new Calculo();
+        Alunos al = new Alunos();
         
-        cal.soma();
-        System.out.println(cal.soma(2, 2));
+        al.cadastrarAluno();
+        
+        
         
         
         
