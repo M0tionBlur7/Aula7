@@ -8,7 +8,8 @@ public class Principal {
         Calculo cal = new Calculo();
         Alunos al = new Alunos();
         
-        al.cadastrarAluno();
+         al.atividade1();
+                 
         
         
         
