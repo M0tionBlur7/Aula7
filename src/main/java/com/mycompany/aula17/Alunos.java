@@ -38,7 +38,7 @@ public class Alunos {
                JOptionPane.showMessageDialog(null, result); 
             }
             
-            //nao entendo oq eu fiz de errado 
+            
             
             
             
